@@ -1077,15 +1077,15 @@ socks = ["PySocks (>=1.5.6,!=1.5.7)"]
 use-chardet-on-py3 = ["chardet (>=3.0.2,<6)"]
 
 [[package]]
-name = "quest"
+name = "rococo"
 version = "1.0.33"
 description = "A Python library to help build things the way we want them built"
 optional = false
 python-versions = ">=3.10"
 groups = ["main"]
 files = [
-    {file = "quest-1.0.33-py3-none-any.whl", hash = "sha256:5921ce720aa8dd89c8917b8f604bfcaaec72cd1588d45fa9e76f177fe9878754"},
-    {file = "quest-1.0.33.tar.gz", hash = "sha256:8684d895d26565314d5f4f326c72d7b8f3d82808b080b5dce0e947176bafe08c"},
+    {file = "rococo-1.0.33-py3-none-any.whl", hash = "sha256:5921ce720aa8dd89c8917b8f604bfcaaec72cd1588d45fa9e76f177fe9878754"},
+    {file = "rococo-1.0.33.tar.gz", hash = "sha256:8684d895d26565314d5f4f326c72d7b8f3d82808b080b5dce0e947176bafe08c"},
 ]
 
 [package.dependencies]

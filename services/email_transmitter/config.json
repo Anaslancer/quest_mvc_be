@@ -2,7 +2,7 @@
     "configurations": [
         {
             "provider": "mailjet",
-            "sourceEmail": "SecondSight <system@secondsight.ai>",
+            "sourceEmail": "Quest MVC Project <sample_project@ecortest.com>",
             "errorReportingEmail": "asymlabs@gmail.com"
         }
     ],
