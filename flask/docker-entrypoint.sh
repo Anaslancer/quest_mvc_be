@@ -2,7 +2,7 @@
 
 echo Running app..
 
-quest-postgres rf  # Run forward migrations
+rococo-postgres rf  # Run forward migrations
 echo Done db stuff
 python3 version.py
 if [ "$APP_ENV" == "production" ] || [ "$APP_ENV" == "test" ]

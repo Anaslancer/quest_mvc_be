@@ -1,6 +1,6 @@
-from quest.repositories.postgresql import PostgreSQLRepository
-from quest.data.postgresql import PostgreSQLAdapter
-from quest.messaging.base import MessageAdapter
+from rococo.repositories.postgresql import PostgreSQLRepository
+from rococo.data.postgresql import PostgreSQLAdapter
+from rococo.messaging.base import MessageAdapter
 from typing import Optional
 
 

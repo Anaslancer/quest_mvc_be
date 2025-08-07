@@ -4,9 +4,9 @@ import string
 
 from werkzeug.security import generate_password_hash
 
-from quest.models.login_method import LoginMethodType
-from quest.models.versioned_model import ModelValidationError
-from quest.models import LoginMethod as BaseLoginMethod
+from rococo.models.login_method import LoginMethodType
+from rococo.models.versioned_model import ModelValidationError
+from rococo.models import LoginMethod as BaseLoginMethod
 
 
 @dataclass

@@ -1,7 +1,7 @@
 from common.repositories import *
 from enum import Enum, auto
-from quest.data.postgresql import PostgreSQLAdapter
-from quest.messaging.rabbitmq import RabbitMqConnection
+from rococo.data.postgresql import PostgreSQLAdapter
+from rococo.messaging.rabbitmq import RabbitMqConnection
 from typing import Optional
 from common.app_logger import logger
 

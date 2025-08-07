@@ -3,8 +3,8 @@ from flask_restx import Api
 from flask_cors import CORS
 
 
-from quest.plugins.pooled_connection import PooledConnectionPlugin
-from quest.models.versioned_model import ModelValidationError
+from rococo.plugins.pooled_connection import PooledConnectionPlugin
+from rococo.models.versioned_model import ModelValidationError
 
 from common.helpers.exceptions import InputValidationError, APIException
 

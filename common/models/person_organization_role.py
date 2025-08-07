@@ -1,4 +1,4 @@
-from quest.models import PersonOrganizationRole as BasePersonOrganizationRole
+from rococo.models import PersonOrganizationRole as BasePersonOrganizationRole
 
 
 class PersonOrganizationRole(BasePersonOrganizationRole):

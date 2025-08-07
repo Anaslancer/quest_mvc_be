@@ -1,4 +1,4 @@
-from quest.models import Organization as BaseOrganization
+from rococo.models import Organization as BaseOrganization
 
 
 class Organization(BaseOrganization):

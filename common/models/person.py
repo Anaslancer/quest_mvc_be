@@ -1,4 +1,4 @@
-from quest.models import Person as BasePerson
+from rococo.models import Person as BasePerson
 from typing import ClassVar
 
 

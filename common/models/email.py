@@ -1,7 +1,7 @@
 import re
 
-from quest.models import Email as BaseEmail
-from quest.models.versioned_model import ModelValidationError
+from rococo.models import Email as BaseEmail
+from rococo.models.versioned_model import ModelValidationError
 
 class Email(BaseEmail):
     
